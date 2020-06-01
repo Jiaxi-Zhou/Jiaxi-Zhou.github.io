@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Jiaxi Zhou
 
-You can use the [editor on GitHub](https://github.com/Jiaxi-Zhou/Jiaxi-Zhou.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Columbia University
+Engineering School
+Operations Research
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Zhejiang University
+Mangement School
+Logistics Management
 
 ### Markdown
 
